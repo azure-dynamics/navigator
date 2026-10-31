@@ -1,0 +1,9 @@
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# KiCad local settings and backup history
+*.kicad_prl
+.history/

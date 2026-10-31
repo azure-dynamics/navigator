@@ -1,0 +1,6 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "BNO086") (type "KiCad") (uri "${KIPRJMOD}/library/BNO086") (options "") (descr ""))
+	(lib (name "logo") (type "KiCad") (uri "${KIPRJMOD}/library/logo") (options "") (descr "Board logo"))
+	(lib (name "282837-2") (type "KiCad") (uri "${KIPRJMOD}/library/282837-2") (options "") (descr "TE 282837-2 connector"))
+)

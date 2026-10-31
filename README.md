@@ -27,8 +27,8 @@ Navigator is a Raspberry Pi HAT designed to host the low-level flight controller
 
 ## Project Status
 
-* **Schematic:** Complete (Revision 001)
-* **Layout:** In progress
+* **Schematic:** Complete (Revision 002)
+* **Layout:** Waiting for review
 * **Fabrication:** Not yet ordered
 
 ---
@@ -37,6 +37,29 @@ Navigator is a Raspberry Pi HAT designed to host the low-level flight controller
 
 ```text
 navigator/
-├── hardware/     KiCad project, BOM, fabrication outputs
-├── firmware/     Flight-controller code
-└── docs/
+├── hardware/       KiCad project and local symbol/footprint libraries
+├── fabrication/    Manufacturing outputs (BOM, Gerbers, drill files)
+├── firmware/       Flight-controller code
+├── docs/           Project documentation
+├── LICENSE
+└── README.md
+```
+
+### Local Libraries
+
+* `hardware/library/282837-2/` — TE 282837-2 connector footprint and STEP model.
+* `hardware/library/BNO086/` — BNO086 IMU symbol and footprint.
+* `hardware/library/logo/` — Board logo footprint.
+
+---
+
+## License
+
+Copyright (C) 2026 Azure Dynamics.
+
+This project is licensed under the
+[CERN Open Hardware Licence Version 2 - Strongly Reciprocal](LICENSE)
+(`CERN-OHL-S-2.0`). See [LICENSE](LICENSE) for the full text.
+
+Third-party symbols, footprints, and STEP models in `hardware/library/` are
+included for convenience and remain subject to their original terms.

@@ -14152,7 +14152,7 @@
 				)
 			)
 		)
-		(property "DigiKey_PN" "1276-2872-1-ND"
+		(property "DigiKey_PN" "490-GRM21BC81C106MA73LCT-ND"
 			(at 27.94 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -20750,7 +20750,7 @@
 				)
 			)
 		)
-		(property "DigiKey_PN" "1276-2872-1-ND"
+		(property "DigiKey_PN" "490-GRM21BC81C106MA73LCT-ND"
 			(at 148.59 22.86 0)
 			(hide yes)
 			(show_name no)

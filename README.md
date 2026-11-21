@@ -27,8 +27,8 @@ Navigator is a Raspberry Pi HAT designed to host the low-level flight controller
 
 ## Project Status
 
-* **Schematic:** Complete (Revision 002)
-* **Layout:** Waiting for review
+* **Schematic:** In progress (Revision 003)
+* **Layout:** Not complete
 * **Fabrication:** Not yet ordered
 
 ---
